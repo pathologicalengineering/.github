@@ -5,7 +5,7 @@
 **THE <ins>FOLIE À DEUX</ins>** (custom 4093 and PT2399 based design)  
 **THE <ins>SELF-DIAGNOSED TRAUMA</ins>**\* (Gen Thalz clone)  
 
-### >> effects pedals
+## >> effects pedals
 
 **THE <ins>DISBANDON</ins>** (stereo 3-band EQ with hard clipped op-amp distortion on each band)  
 **THE <ins>EXTREMELY UNNECESSARILY COMPLICATED BITCRUSHER</ins>**\* (a bitcrusher)  
