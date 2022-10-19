@@ -9,10 +9,11 @@
 
 ### >> effects pedals
 
-**THE <ins>DISBANDON</ins>** (stereo 3-band EQ with hard clipped op-amp distortion on each band)  
+**THE <ins>DISBANDON</ins>** (stereo 3-band EQ with hard clipped op-amp distortion on each *individual* band)  
 **THE <ins>EXTREMELY UNNECESSARILY COMPLICATED BITCRUSHER</ins>**\* (a bitcrusher)  
 **THE <ins>SCHOCASTIC DISINTEGRATOR</ins>** (stereo delay(s) with fuzz)  
 **THE <ins>UNSOLICITED FEEDBACK</ins>** (buffered stereo effects loop with feedback)  
 **THE <ins>HRD CLPPR</ins>** (a stereo distortion pedal with zero frills)  
+**THE <ins>DECAY OF MODERNITY</ins>** (ARM cortex-M and more PT2399s than is strictly necessary) 
 
 *\* not available*
