@@ -14,6 +14,6 @@
 **THE <ins>SCHOCASTIC DISINTEGRATOR</ins>** (stereo delay(s) with fuzz)  
 **THE <ins>UNSOLICITED FEEDBACK</ins>** (buffered stereo effects loop with feedback)  
 **THE <ins>HRD CLPPR</ins>** (a stereo distortion pedal with zero frills)  
-**THE <ins>DECAY OF MODERNITY</ins>** (ARM cortex-M and more PT2399s than is strictly necessary) 
+**THE <ins>DECAY OF MODERNITY</ins>** (chaotic ARM cortex-M/PT2399 delay) 
 
 *\* not available*
